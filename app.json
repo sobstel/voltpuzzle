@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Voltpuzzle",
+    "slug": "voltpuzzle",
+    "privacy": "unlisted",
+    "platforms": ["ios", "android"],
+    "sdkVersion": "26.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#FF3B30",
+    "splash": {
+      "backgroundColor": "#D2CECB"
+    },
+    "assetBundlePatterns": ["assets/fonts/**", "assets/images/**"]
+  }
+}
