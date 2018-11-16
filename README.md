@@ -3,6 +3,12 @@
 
 Voltpuzzle is an unfinished sequel to [Hydropuzzle](https://github.com/hydropuzzle/hydropuzzle).
 
+## Preview
+
+![Voltpuzzle preview](https://raw.githubusercontent.com/hydropuzzle/voltpuzzle/master/fY5fckR3fn.gif)
+
+Animation is a bit sloppy here, because it's just a gif ;-)
+
 ## Development
 
 * `yarn start`
